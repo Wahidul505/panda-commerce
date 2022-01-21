@@ -1,3 +1,18 @@
-.row{
+.carousel-custom-bg{
   background-color: #FEEAE9;
 }
+.catagories img{
+  width: 100px;
+  }
+  #subscribe{
+    height: 400px;
+    background-color: #FEEAE9;
+  }
+  .custom-btn{
+    color: white;
+    background-image: linear-gradient(pink, hotpink);
+    padding: 5px 8px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 8px;
+  }
